@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVPDemo</string>
+    <string name="url">https://api.github.com/search/users?q=</string>
+    <string name="verify_empty">Must enter input</string>
+    <string name="input">Input</string>
+    <string name="search">Search</string>
 </resources>
